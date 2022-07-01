@@ -29,7 +29,7 @@ export default function SelectAno() {
 
   return(
     isModeloSelected
-    ? <FormControl fullWidth sx={{ maxWidth: '60%', marginBottom: '20px' }}>
+    ? <FormControl fullWidth sx={{ maxWidth: '60%', marginBottom: '20pxyu' }}>
         <InputLabel id="anos">Anos</InputLabel>
         <Select
           labelId="anos"
